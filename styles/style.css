@@ -1,0 +1,148 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+.nav-link {
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+}
+.nav-div {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header {
+    background-color: #4997ae;
+    color: white;
+    padding: 0px 100px;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    margin-bottom: 100px;
+}
+.header-span {
+    color: orange;
+}
+h1 {
+    font-size: 55px !important;
+    width: 600px;
+}
+.header-main-div {
+    padding-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-text {
+    font-size: 25px;
+    width: 530px;
+}
+.header-button {
+    border-radius: 80px !important;
+    padding: 7px 20px !important;
+}
+.header-div-button {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    align-items: center;
+}
+.header-icon {
+    font-size: 50px;
+}
+.header-div-text {
+    font-size: 25px;
+    color: black;
+}
+.header-img-1 {
+    width: 450px;
+    height: 600px;
+    position: relative;
+}
+.header-img-2 {
+    width: 650px;
+    height: 400px;
+    position: absolute;
+    right: 50px;
+}
+.header-div-2 {
+    width: 450px;
+}
+.section-succes-text {
+    width: 750px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+h2 {
+    font-size: 50px !important;
+    text-align: center;
+}
+.section-succes-div-text {
+    font-size: 30px !important;
+    text-align: center;
+}
+.section-succes-div {
+    width: 300px;
+}
+.section-succes-div-h3 {
+    color: #136CB5;
+    text-align: center;
+    font-size: 70px;
+}
+.section-succes-main-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+.section-all-h3 {
+    color: #2F327D;
+    font-size: 35px;
+    text-align: center;
+}
+.section-all-span {
+    color: gray;
+}
+.section-all {
+    margin: 100px 0px;
+}
+.section-all-text {
+    font-size: 25px;
+    color: #696984;
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}        
+.section-all-main-div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section-all-div {
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 1px blue;
+    height: 400px;
+}
+.section-all-div-text {
+    width: 300px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+.section-all-div-h3 {
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+.section-all-div-img {
+    margin: auto;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+}
