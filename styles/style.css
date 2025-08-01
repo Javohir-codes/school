@@ -235,7 +235,174 @@ h2 {
 }
 .section-features-h3 {
     text-align: center;
+    font-size: 36px;
 }
 .section-features {
     margin: 100px 0px;
+}
+.section-features-text {
+    color: #696984;
+    font-size: 25px !important;
+    text-align: center;
+}
+.section-features-main-div {
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+.section-features-div-span {
+    color:  gray;
+}
+.section-features-div-h3 {
+    color: #2F327D;
+    font-size: 40px;
+    width: 500px;
+}
+.section-features-div-p {
+    font-size: 22px;
+    width: 450px;
+    color: #696984;
+}
+.section-features-div-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+.section-tools-h3 {
+    width: 400px;
+    font-size: 40px !important;
+    color: #2F327D;
+}
+.section-tools-text {
+    width: 550px;
+    font-size: 22px;
+    color: #696984;
+}
+.section-tools-span {
+    color: gray;
+}
+.section-tools {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section-test {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section-test-span {
+    color: gray;
+}
+.section-test-h3 {
+    font-size: 40px;
+    color: #2F327D;
+    width: 350px;
+}
+.section-test-text {
+    color: #696984;
+    width: 500px;
+    margin-top: 30px;
+    font-size: 22px
+}
+.section-management-span {
+    color: gray;
+}
+.section-management-h3 {
+    width: 400px;
+    font-size: 40px;
+    color: #2F327D;
+}
+.section-management {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section-management-text {
+    width: 600px;
+    color: #696984;
+    margin-top: 30px;
+    font-size: 22px
+}
+.section-discussions-h3 {
+    font-size: 40px;
+    color: #2F327D;
+    width: 250px;
+}
+.section-discussions-span {
+    color: gray;
+}
+.section-discussions-text {
+    width: 500px;
+    color: #696984;
+    font-size: 22px;
+    margin-top: 30px;
+}
+.section-discussions-main-div {
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+.section-discussions-but {
+    border-radius: 80px !important;
+    padding: 10px 20px !important;
+    display: flex !important;
+    justify-content: center !important;
+    margin: auto !important;
+}
+.section-testimonial-h4 {
+    color: #525596;
+    font-size: 20px;
+}
+.section-testimonial-h3 {
+    color: #2F327D;
+    font-size: 60px;
+}
+.section-testimonial {
+    margin: 100px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section-testimonial-div-text {
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.section-testimonial-text {
+    width: 500px;
+    font-size: 22px;
+    color: #696984;
+}
+.section-testimonial-but {
+    border-radius: 80px !important;
+}
+.section-testimonial-second-div-text {
+    width: 500px;
+    font-size: 22px;
+    color: #5F5F7E;
+}
+.section-testimonial-second-div-div-text {
+    color: #80819A;
+    font-size: 18px;
+}
+.section-testimonial-img {
+    position: relative;
+}
+.section-testimonial-second-main-div {
+    width: 570px;
+    padding-left: 30px;
+    border-left: 14px solid #F67766;
+    background-color: white;
+    border-radius: 20px;
+    position: absolute;
+    right: 30px;
+    top: 7800px;
+}
+.section-testimonial-second-div-h3 {
+    color: #5F5F7E;
+    font-size: 24px;
 }
