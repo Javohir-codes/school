@@ -364,6 +364,7 @@ h2 {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    height: 700px;
 }
 .section-testimonial-div-text {
     width: 600px;
@@ -405,4 +406,110 @@ h2 {
 .section-testimonial-second-div-h3 {
     color: #5F5F7E;
     font-size: 24px;
+}
+.section-news-h3 {
+    color: #2F327D;
+    font-size: 36px;
+    text-align: center;
+}
+.section-news {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.section-news-text {
+    font-size: 24px;
+    color: #696984;
+    text-align: center;
+}
+.section-news-div-h3 {
+    color: #252641;
+    font-size: 26px;
+    width: 600px;
+}
+.section-news-div-1 {
+    width: 640px;
+}
+.section-news-div-text {
+    width: 600px;
+    color: #696984;
+    font-size: 20px;
+}
+.section-news-link {
+    text-decoration-color: #696984;
+    color: #696984;
+    font-size: 20px;
+}
+.section-news-div-main-img {
+    width: 640px;
+    height: 340px;
+    border-radius: 20px;
+}
+.section-news-main-div {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.section-news-div-2-img {
+    border-radius: 20px;
+    width: 280px;
+    height: 200px;
+}
+.section-news-div-2-h3 {
+    font-size: 22px;
+    color: #252641;
+    width: 450px;
+}
+.section-news-div-2-text {
+    color: #696984;
+    font-size: 20px;
+    width: 450px;
+}
+.footer-h3 {
+    font-size: 22px;
+    width: 150px;
+}
+footer {
+    color: white;
+    background-color: #252641;
+    text-align: center;
+    padding: 50px 0px;
+}
+.footer-text {
+    font-size: 26px;
+    color: #B2B3CF;
+}
+.footer-input {
+    border-radius: 80px;
+    border: 1px solid #83839A;
+    padding-right: 200px;
+    font-size: 20px;
+    padding-top: 7px;
+    color: white;
+    padding-bottom: 7px;
+    background-color: inherit;
+}
+.footer-form {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 570px;
+}
+.footer-button {
+    border-radius: 60px !important;
+    padding: 5px 20px !important;
+}
+.footer-third-div {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: auto;
+}
+.footer-div-text {
+    font-size: 22px;
+    color: #B2B3CF;
+}
+.footer-text-bottom {
+    font-size: 22px;
+    text-align: center;
+    color: #B2B3CF;
 }
