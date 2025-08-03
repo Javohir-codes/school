@@ -1,0 +1,57 @@
+@media (max-width: 1300px) {
+    .section-test {
+        justify-content: center;
+        margin: 100px 0px;
+    }
+    .section-discussions-main-div {
+        flex-wrap: wrap;
+        margin: 100px 0px;
+    }
+    .section-tools {
+        flex-wrap: wrap;
+    }
+    .section-classroom {
+        flex-wrap: wrap;
+        margin: 100px 0px;
+    }
+    .section-totc-main-div {
+        flex-wrap: wrap;
+    }
+    .section-totc-div-1 {
+        margin-bottom: 50px;
+    }
+    .section-all-main-div {
+        flex-wrap: wrap;
+    }
+    .section-all-div {
+        margin-top: 50px;
+    }
+    .section-succes-main-div {
+        flex-wrap: wrap;
+    }
+    .header-main-div {
+        flex-wrap: wrap;
+    }
+    nav {
+        flex-wrap: wrap;
+    }
+    .nav-div {
+        flex-wrap: wrap;
+    }
+    .section-testimonial {
+        flex-wrap: wrap;
+    }
+    .section-testimonial-second-main-div {
+        display: none;
+    }
+    .section-testimonial-img {
+        position: static;
+    }
+    .section-news-main-div {
+        flex-wrap: wrap;
+        margin-top: 200px;
+    }
+    .section-news-h3, .section-news-text {
+        display: none;
+    }
+}
