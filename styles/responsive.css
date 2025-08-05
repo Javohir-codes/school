@@ -55,3 +55,128 @@
         display: none;
     }
 }
+@media (max-width: 430px) {
+    .section-totc-text {
+        width: 100%;
+    }
+    .section-all-text {
+        width: 100%;
+    }
+    .section-succes-text {
+        width: 100%;
+    }
+    .section-features-img {
+        width: 100%;
+    }
+    .section-management-img {
+        width: 100%;
+    }
+    .section-discussions-img {
+        width: 100%;
+    }
+    .section-news-div-2-h3, .section-news-div-2-text {
+        width: 100%;
+    }
+    .section-news-div-main-img {
+        display: none;
+    }
+    .section-tools-img {
+        width: 100%;
+    }
+    .section-management-text {
+        width: 100%;
+    }
+    .header-div-1 {
+        width: 100%;
+    }
+    h1 {
+        width: 100%;
+        font-size: 30px !important;
+    }
+    .section-totc-div-2, .section-totc-div-1, .section-all-div-div {
+        width: 100%;
+    }
+    .section-classroom-h3, .section-classroom-text {
+        width: 100%;
+    }
+    .section-classroom-img {
+        width: 100%;
+    }
+    .header-text {
+        width: 100%;
+        font-size: 15px;
+    }
+    .header-div-button {
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .section-testimonial-img {
+        width: 100%;
+    }
+    .section-news-div-h3 {
+        width: 100%;
+    }
+    .section-news-div-1 {
+        width: 100%;
+    }
+    .section-news-div-text {
+        width: 100%
+    }
+    .header-img-1 {
+        width: 100%;
+        height: 100%;
+    }
+    .header-img-2 {
+        display: none;
+    }
+    .section-tools-text {
+        width: 100%;
+    }
+    .section-features-div-p {
+        width: 100%;
+    }
+    .footer-form {
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .footer-third-div {
+        width: 100%;
+    }
+    .section-test-img {
+        width: 100%;
+    }
+    .section-discussions-div-2 {
+        width: 100%;
+    }
+    .section-discussions-text {
+        width: 100%;
+    }
+    .section-testimonial-div-text {
+        width: 100%;
+    }
+    .section-features-h3c {
+        width: 100%;
+    }
+    .section-features-main-div {
+        width: 100%;
+    }
+    .section-features {
+        width: 100%;
+    }
+    .section-features-div-text {
+        width: 100%;
+    }
+    .section-features-div-h3 {
+        width: 100%;
+    }
+    .section-test-text {
+        width: 100%;
+    }
+    .section-testimonial-text {
+        width: 100%;
+    }
+    .section-news-div-2-h3, .section-news-div-2-text {
+        width: 100%;
+    }
+}
